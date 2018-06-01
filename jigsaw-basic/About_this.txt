@@ -1,0 +1,1 @@
+use any pair of images with corresponding names, source 2 as canvas with piece2 as the piece.
