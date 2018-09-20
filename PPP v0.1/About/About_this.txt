@@ -1,0 +1,5 @@
+alright so you put the launch codes in, and then you highlight an area by clicking and dragging, FROM LEFT TO DOWN AND RIGHT, and then you press c when you like the crop you got, then s on the cropped window, then hit escape twice, and the sift will run, then it should open in a new window, sometimes it is behind other windows.
+
+Try to get a bunch of the background, it helps by allowing sift to know what lacks contours.
+
+Any matching problems is almost certainly because of my bad photos.
