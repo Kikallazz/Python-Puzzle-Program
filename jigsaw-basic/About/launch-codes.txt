@@ -1,0 +1,3 @@
+put this into the terminal in the same directory as sift-basic.py, it'll run it against the spiderman canvas and whatever the last thing you cropped was.
+
+python sift-basic.py --canvas images\sources\source2.jpg --piece cropper_test\cropped\img0.jpg
